@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+.next
+
+amplify/#current-cloud-backend
+
+graphql
+API.ts
+
+aws-exports.js
+mock-exports.js
+
+*.json
+*.md
+
+amplify-dependent-resources-ref.d.ts
