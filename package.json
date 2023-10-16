@@ -1,0 +1,24 @@
+{
+  "name": "reviewdog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongnguyen276/reviewdog-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuongnguyen276/reviewdog-test/issues"
+  },
+  "homepage": "https://github.com/cuongnguyen276/reviewdog-test#readme",
+  "dependencies": {
+    "antd": "^5.10.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
