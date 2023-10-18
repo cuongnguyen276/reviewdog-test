@@ -10,7 +10,6 @@ API.ts
 aws-exports.js
 mock-exports.js
 
-*.json
 *.md
 package-lock.json
 
