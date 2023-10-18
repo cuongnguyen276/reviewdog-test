@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cuongnguyen276/reviewdog-test#readme",
   "dependencies": {
-    "antd": "^5.10.1",
+      "antd": "^5.10.1",
     "prettier": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
