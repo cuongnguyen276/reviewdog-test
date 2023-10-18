@@ -12,7 +12,6 @@ mock-exports.js
 
 *.json
 *.md
-package.json
 package-lock.json
 
 amplify-dependent-resources-ref.d.ts
