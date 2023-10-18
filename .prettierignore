@@ -10,6 +10,6 @@ API.ts
 aws-exports.js
 mock-exports.js
 
-package-lock.json
+**/package-lock.json
 
 amplify-dependent-resources-ref.d.ts
