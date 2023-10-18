@@ -11,7 +11,7 @@ aws-exports.js
 mock-exports.js
 
 package-lock.json
-package.json
+
 *.md
 
 amplify-dependent-resources-ref.d.ts
